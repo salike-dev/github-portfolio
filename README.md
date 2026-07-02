@@ -17,6 +17,7 @@
 ### 📂 Featured Projects
 #### 🌐 Language Translation Tool(Link to repo or live site)
 *A modern AI-powered language translation web application that supports multiple languages with speech recognition, text-to-speech, automatic language detection, and a responsive, user-friendly interface built for seamless communication.*
+
 **Tech Stack:** HTML5, CSS3, JavaScript, Translation API, Web Speech API
 #### 🌍 Personal Portfolio Website(Link to repo or live site)
 *A fully responsive portfolio website showcasing my projects, technical skills, certifications, and professional journey with a clean UI, smooth animations, and modern web design principles.*
