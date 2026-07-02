@@ -20,6 +20,7 @@
 **Tech Stack:** HTML5, CSS3, JavaScript, Translation API, Web Speech API
 #### 🌍 Personal Portfolio Website(Link to repo or live site)
 *A fully responsive portfolio website showcasing my projects, technical skills, certifications, and professional journey with a clean UI, smooth animations, and modern web design principles.*
+
 **Tech Stack:** HTML5, CSS3, JavaScript (or React + Tailwind CSS, if that's what you use)
 
 
