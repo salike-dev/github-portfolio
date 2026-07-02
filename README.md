@@ -1,29 +1,38 @@
-# Hi there, I'm SALIKE VEERA SATISH CHANDRA! 👋
+# Hi 👋, I'm SALIKE VEERA SATISH CHANDRA
 
-*I am a passionate about Web Developer, App Developer, and AI Engineer dedicated to building innovative, user-focused digital solutions. I enjoy transforming ideas into impactful web applications, mobile apps, and AI-powered experiences by combining creativity, problem-solving, and modern technologies. I am committed to continuous learning, creating meaningful projects, and developing solutions that make a real-world impact.*
----
+### A passionate Web developer and AI Engineer
 
-### 🚀 About Me
-- 🔭 I’m currently pursuing a B.Tech in Computer Science and Engineering (Artificial Intelligence & Machine Learning) at Godavari Global University, Rajahmundry, Andhra Pradesh.
-- 🌱 I’m continuously expanding my expertise in Full-Stack Web Development, React, AI-powered applications, UI/UX design, API integration, and modern development tools by building practical, real-world projects.
-- 🎨 I’m interested in creating innovative web, mobile, and AI-powered solutions that deliver seamless user experiences and meaningful real-world impact.
-- ⚡ Fun fact: love exploring new technologies and challenging myself with hands-on projects.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salike-dev&label=Profile views&color=0e75b6&style=flat" alt="salike-dev" /> </p>
 
-### 🛠️ Tech Stack & Tools
-* **Languages:** HTML5, CSS3, JavaScript (ES6+), Python
-* **Frameworks/Libraries:** React, Tailwind CSS
-* **Design & Tools:** Git, GitHub, VS Code
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salike-dev" alt="salike-dev" /></a> </p>
 
-### 📂 Featured Projects
-#### 🌐 Language Translation Tool(Link to repo or live site)
-*A modern AI-powered language translation web application that supports multiple languages with speech recognition, text-to-speech, automatic language detection, and a responsive, user-friendly interface built for seamless communication.*
+- 🔭 I'm currently working on **Language Translation Tool, Detection Tracking**
 
-**Tech Stack:** HTML5, CSS3, JavaScript, Translation API, Web Speech API
-#### 🌍 Personal Portfolio Website(Link to repo or live site)
-*A fully responsive portfolio website showcasing my projects, technical skills, certifications, and professional journey with a clean UI, smooth animations, and modern web design principles.*
+- 🌱 I'm currently learning **Full-Stack Web Development, AI-powered application development, React, modern JavaScript, UI/UX design principles, and Git/GitHub while building real-world projects.**
 
-**Tech Stack:** HTML5, CSS3, JavaScript (or React + Tailwind CSS, if that's what you use)
+- 👯 I'm looking to collaborate on **Detection Tracking Project**
 
+- 💬 Ask me about **Frontend Development, Web Speech & Translation APIs, Creative Coding React, GSAP, UI/UX Animations, Stylized Web Design ​JavaScript, React, Tailwind CSS**
 
-### 📫 Connect with Me
-* https://www.linkedin.com/in/veera-satish-chandra-salike-351a44410/
+- 📫 How to reach me **vschandrasalike@gmail.com**
+
+- ⚡ Fun fact **love exploring new technologies and challenging myself with hands-on projects.**
+
+- 📄 Know about my experiences **[https://drive.google.com/file/d/152XLt1wJRP8A9tKeSLky0HyajuDuQ2MM/view?usp=drive_link](https://drive.google.com/file/d/152XLt1wJRP8A9tKeSLky0HyajuDuQ2MM/view?usp=drive_link)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/salike-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="salike-dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/veera-satish-chandra-salike-351a44410/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/veera-satish-chandra-salike-351a44410/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/c.ndu_06.24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/c.ndu_06.24/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salike-dev&show_icons=true&locale=en&layout=compact" alt="salike-dev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salike-dev&show_icons=true&locale=en" alt="salike-dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salike-dev&" alt="salike-dev" /></p>
+
